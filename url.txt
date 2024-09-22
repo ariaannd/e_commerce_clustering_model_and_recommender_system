@@ -1,0 +1,5 @@
+link Visualisasi Tableau =
+https://public.tableau.com/app/profile/muhammad.athaariq2169/viz/FinalprojectFTDS/Final2?publish=yes
+
+link Deployment =
+https://huggingface.co/spaces/Rafion101/Final_Project_Customer_Segmentation_and_Recomendation_System
